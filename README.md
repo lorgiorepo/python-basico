@@ -1,0 +1,4 @@
+python-basico
+=============
+
+Iniciando python
